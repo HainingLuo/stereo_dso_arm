@@ -19,7 +19,9 @@ Some modification was also done to the example for test purpose.
 4.Usage 
 
 Open a terminal under the project directory,
+
 	bash INSTALL
 Alter the yaml file,
+
 	bash run.sh
 	
