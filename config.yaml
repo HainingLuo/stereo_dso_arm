@@ -1,0 +1,26 @@
+%YAML:1.0
+
+#Dataset
+DataSetRootDirectory: "/home/nvidia/ssd/data/ETH"
+SaveResultTo: "result/"
+
+#For_dso
+useSampleOutput: 0
+quiet: 0
+preset: 0
+rec: 1
+noros: 0
+nolog: 0
+reverse: 0
+nogui: 0
+nomt: 0
+prefetch: 0
+start: 0
+end: 100000
+calib: "para/camera_eth.txt"
+vignette: ""
+gammaCalib: ""
+rescale: 1
+playbackSpeed: 0
+save: 1
+mode: 1
